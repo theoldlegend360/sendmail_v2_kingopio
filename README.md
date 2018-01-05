@@ -2,6 +2,6 @@
 
 Linux Office365 Inbox Mailer
 
-download: wget https://github.com/theoldlegend360/sendmail_v2_kingopio/archive/master.zip -P /Desktop
+download: wget https://github.com/theoldlegend360/sendmail_v2_kingopio/raw/master/sendmail_v2.zip 
 
 Pure inbox.
